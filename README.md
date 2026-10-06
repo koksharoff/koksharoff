@@ -26,10 +26,10 @@ something is wrong before the users do.
 
 **How I work**
 
-- 🔁 **Build once, promote everywhere** — one image per commit travels from dev to prod without rebuilding
-- 🧱 **Everything as code** — infrastructure, configs and pipelines live in Git and go through merge requests
-- 🛡️ **Secure by default** — secrets in Vault and CI variables, never in repositories; hardened Linux baselines
-- 📈 **Alert on symptoms, not noise** — 5xx, latency and disk space instead of every CPU spike
+-  **Build once, promote everywhere** — one image per commit travels from dev to prod without rebuilding
+-  **Everything as code** — infrastructure, configs and pipelines live in Git and go through merge requests
+-  **Secure by default** — secrets in Vault and CI variables, never in repositories; hardened Linux baselines
+-  **Alert on symptoms, not noise** — 5xx, latency and disk space instead of every CPU spike
 
 ---
 
@@ -60,7 +60,7 @@ something is wrong before the users do.
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 | Area | Tools |
 | --- | --- |
@@ -75,7 +75,7 @@ something is wrong before the users do.
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 ### [Ansible Server Baseline](https://github.com/koksharoff/Ansible_templates)
 Turns a fresh Debian / Ubuntu server into a hardened, consistently configured host for **dev, stage and prod**
@@ -92,7 +92,7 @@ A VS Code extension that tracks time spent in the editor and per file.
 
 ---
 
-## 🌾 Domain experience
+## Domain experience
 
 **IoT monitoring in agriculture** — backend and infrastructure for real-time temperature and humidity
 monitoring of grain storage: sensor data over MQTT, processing in Go, storage in PostgreSQL,
@@ -100,7 +100,7 @@ dashboards and alerting. *Commercial project, source code is private.*
 
 ---
 
-## 🔭 Currently working on
+## Currently working on
 
 - CI for the Ansible baseline: GitHub Actions lint pipeline and Molecule tests for every role
 - A public IoT monitoring platform demo: Terraform, Kubernetes, GitOps with Argo CD, Prometheus and Grafana
@@ -115,7 +115,7 @@ Have a look at my channel: [Немного не отсюда](https://t.me/nemno
 
 ---
 
-## 📬 Contact
+## Contact
 
 <p>
   <a href="https://t.me/Slava_koksh">
